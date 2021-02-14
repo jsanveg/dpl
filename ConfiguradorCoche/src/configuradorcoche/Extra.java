@@ -7,7 +7,7 @@ package configuradorcoche;
 
 /**
  *
- * Este método añade extras al coche.
+ * Este método añade extras al coche2.
  */
 public abstract class Extra {
     protected String nombre;
